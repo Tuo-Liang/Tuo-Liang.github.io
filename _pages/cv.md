@@ -47,9 +47,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* one submitted
   
 <!--Talks
 ======
@@ -60,9 +58,7 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching assistant of Computer Vision(CSDS 465), where CSDS(computer science and data science department) 
   
 <!--
 Service and leadership
