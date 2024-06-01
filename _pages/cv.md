@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in USA, Case Western University, 2023 - Now
+* B.S. in China, Sun Yat Sen University, 2018 - 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb-July 2023: Machine Learning researcher (Intern)
+  * Electric-Wisdom Technology Co.
+  * Duties includes:
+    * Finetune Large Language Model on Medical dataset
+    * Graph processing: 3D reconstruction (tooth), Optical Flow models
+    * Data processing 
+    * Medical image segmentation
+    * Experiment equipments screens Object deteciton
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2019: Technician (Intern)
+  * Wuzhou Bureau of Transportation
+  * Duties included:
+    * Worked with Wuzhou city's intelligent traffic rental car supervision platform
+    * Proposed specific improvements to the taxi supervision platform 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* OS:
+  * Ubuntu/Windows/MacOS  
+* Programming Languages:
+  * Python
+  * C++/C
+  * R
+  * C#
+*Softwares:
+  * Matlab\Vscode\Anaconda...
 
 Publications
 ======
@@ -47,11 +51,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+  -->
   
 Teaching
 ======
@@ -59,6 +64,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
